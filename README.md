@@ -1,5 +1,4 @@
 # Sodoku_user_management
-Created a Sudoku platform with user management and gamified features.
 
 A web-based application to create, manage, and play Sudoku puzzles, catering to enthusiasts and administrators. It features puzzle generation, subscription-based access, leaderboard management, and user-query handling. Built with modern web technologies, the system emphasizes scalability, user experience, and efficient data management.
 
@@ -165,10 +164,4 @@ $dbname = "sudoku_db"; // Your database name
 
 ---
 
-## **📜 License**
 
-This project is open-source and available under the [MIT License](LICENSE).  
-
---- 
-
-This version maintains a clear and professional structure, ensuring ease of use for developers, users, and contributors.
